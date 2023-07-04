@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @prabuddha34
 - 👀 I’m interested in Coding And Mathematics
 - 🌱 I’m currently learning Web Development
-- 💞️ I’m looking to collaborate on ...
+ 
 - 📫 How to reach me ...
  Reach me through the youtube:Prabuddha Pal
 <!---
