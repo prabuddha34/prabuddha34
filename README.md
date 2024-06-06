@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @prabuddha34
-- 👀 I’m interested in Coding And Mathematics
-- 🌱 I’m currently learning Web Development
+- 👋 Hi, I’m Prabuddha Pal
+- 👀 I’m interested in Coding
+- 🌱 I did Web development projects as my hobby, currently doing Java and also learning about java Swing !
  
 - 📫 How to reach me ...
  Reach me through the youtube:Prabuddha Pal
