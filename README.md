@@ -2,7 +2,7 @@
 
 <p align="center">
   🎧 Java Developer | 💡 Passionate about clean code and building cool things! <br>
-  I love tinkering with music apps, animations, and terminal tools. <br>
+
 </p>
 
 ---
