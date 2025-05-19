@@ -20,18 +20,13 @@
 
 ---
 
-### 🎧 Projects I'm Proud Of
 
-- 🎵 **Java Audio Player**: CLI-based audio player using `javax.sound.sampled`
-- ⚙️ **Mini Java Tools**: Tools for file handling and CLI utilities
-
----
 
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=prabuddha34&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=prabuddha34&theme=tokyonight" width="48%" />
 </p>
 
 ---
@@ -39,8 +34,8 @@
 ### 🌐 Let's Connect
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/prabuddha34"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="mailto:palprabuddha478@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <!-- Add your LinkedIn or other social media if you want -->
 </p>
 
