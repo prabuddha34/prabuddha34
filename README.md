@@ -35,23 +35,7 @@
 
 ---
 
-## 🎧 Featured Project: Java Music Player
 
-> A terminal-based music player built using Java's `javax.sound.sampled` package.
-
-### 🎬 Demo (GIF or Screenshot placeholder):
-
-![Music Player CLI](https://your-demo-link-here.gif) <!-- Replace with actual GIF if available -->
-
-### 🚀 Features
-
-- Play, Stop, and Reset `.wav` audio files
-- Simple terminal UI
-- Cross-platform (Java-based)
-
-🔗 [View on GitHub](https://github.com/prabuddha34/your-repo-name)
-
----
 
 ## 🤝 Connect with Me
 
