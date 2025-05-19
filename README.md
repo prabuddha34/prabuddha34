@@ -1,57 +1,70 @@
-<!-- GitHub Profile README with Animations -->
-
-<h1 align="center">Hi 👋, I'm Prabuddha Pal</h1>
-<h3 align="center">A Passionate Developer</h3>
+<h1 align="center">Hi there 👋, I'm Prabuddha</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=1E90FF&center=true&vCenter=true&width=435&lines=Java+Developer+%7C;Loves+to+Code+%E2%9C%A8;Always+Learning+Something+New!" alt="Typing SVG" />
+  🎧 Java Developer | 💡 Passionate about clean code and building cool things! <br>
+  I love tinkering with music apps, animations, and terminal tools. <br>
 </p>
 
 ---
 
-### 🚀 About Me
+## 🔧 Tech Stack
 
-- 💻 Java Developer with a passion for clean and efficient code  
-- 🌱 Constantly exploring new technologies and improving my skills  
-- 📫 Reach me at: [palprabuddha478@gmail.com](mailto:palprabuddha478@gmail.com)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
-### 🔧 Technologies & Tools
+## 🔥 GitHub Stats
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=prabuddha34&show_icons=true&theme=radical" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://streak-stats.demolab.com?user=prabuddha34&theme=radical" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabuddha34&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
 
-### 📈 GitHub Stats
+## 🎧 Featured Project: Java Music Player
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prabuddha34&show_icons=true&theme=tokyonight" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=prabuddha34&how_icons=true&theme=tokyonight" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabuddha34&layout=compact&theme=tokyonight" width="48%"/>
+> A terminal-based music player built using Java's `javax.sound.sampled` package.
+
+### 🎬 Demo (GIF or Screenshot placeholder):
+
+![Music Player CLI](https://your-demo-link-here.gif) <!-- Replace with actual GIF if available -->
+
+### 🚀 Features
+
+- Play, Stop, and Reset `.wav` audio files
+- Simple terminal UI
+- Cross-platform (Java-based)
+
+🔗 [View on GitHub](https://github.com/prabuddha34/your-repo-name)
+
+---
+
+## 🤝 Connect with Me
+
+<p>
+  <a href="https://github.com/prabuddha34">
+    <img src="https://img.shields.io/badge/GitHub-prabuddha34-181717?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
+  <!-- Add other social links if you have them -->
 </p>
 
 ---
 
-### 🌐 Let's Connect
-
 <p align="center">
-  <a href="https://github.com/prabuddha34"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="mailto:palprabuddha478@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <!-- Optional: Add LinkedIn, Twitter, etc. -->
+  Made with ❤️ by Prabuddha
 </p>
 
----
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
-</p>
-
-<p align="center"><b>💻 Code &nbsp;|&nbsp; 🎧 Music &nbsp;|&nbsp; ☕ Coffee &nbsp;|&nbsp; 🚀 Repeat</b></p>
