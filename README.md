@@ -1,53 +1,63 @@
-<h1 align="center">Hi there 👋, I'm Prabuddha</h1>
+## 👋 Hi there, I’m Prabuddha Pal (aka `prabuddha34`)
 
-<p align="center">
-  🎧 Java Developer | 💡 Passionate about clean code and building cool things! <br>
-
-</p>
+A self-driven software developer passionate about building efficient, scalable, and modern web applications. I love exploring new technologies, writing clean code, and solving real-world problems through software.
 
 ---
 
-## 🔧 Tech Stack
+### 🚀 What I’m Working On
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
----
+- **🔁 Infinite Scroll Lazy Loader**  
+  An image loading system using the `IntersectionObserver` API to load assets on-demand — improving page speed and UX.
 
-## 🔥 GitHub Stats
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=prabuddha34&show_icons=true&theme=radical" alt="GitHub Stats" />
-    </td>
-    <td>
-      <img src="https://streak-stats.demolab.com?user=prabuddha34&theme=radical" alt="GitHub Streak" />
-    </td>
-  </tr>
-</table>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabuddha34&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+- **🛠️ [Add your second project here]**  
+  *(Give a one-line description or keep it blank if you're still building it)*
 
 ---
 
+### 💡 Tech Stack
 
+**Languages & Markup:**  
+`HTML` · `CSS` · `JavaScript` · `Python` · `Java`
 
-## 🤝 Connect with Me
+**Frameworks & Libraries:**  
+`React` *(if applicable)* · `Node.js` · `Express` · `MongoDB` · `TailwindCSS` *(if applicable)*
 
-<p>
-  <a href="https://github.com/prabuddha34">
-    <img src="https://img.shields.io/badge/GitHub-prabuddha34-181717?style=for-the-badge&logo=github" alt="GitHub" />
-  </a>
-  <!-- Add other social links if you have them -->
-</p>
+**Tools & Platforms:**  
+`Git` · `GitHub` · `VS Code` · `Chrome DevTools` · `Postman`
 
 ---
 
-<p align="center">
-  Made with ❤️ by Prabuddha
-</p>
+### 🧠 Skills & Interests
 
+- Full-stack web development
+- API design and integration
+- UI/UX optimization
+- Browser performance tuning (Lazy loading, caching, etc.)
+- Secure coding and privacy-focused development
+- Cybersecurity awareness and open-source tools
+
+---
+
+### 📌 Pinned Projects
+
+- [🔁 Infinite Scroll Lazy Loader](https://github.com/prabuddha34/infinite-scroll-lazyloader)  
+  A smooth infinite image loader powered by modern browser APIs.
+
+- [📂 Your Second Project](https://github.com/prabuddha34/your-second-project)  
+  *(Update this with actual repo links and brief descriptions.)*
+
+---
+
+### 📫 Let's Connect
+
+- **GitHub:** [github.com/prabuddha34](https://github.com/prabuddha34)  
+- **YouTube (if applicable):** `PRABUDDHA Pal`  
+- *(Add email, LinkedIn, or Twitter if you'd like)*
+
+---
+
+### ⚡ Fun Fact
+
+I sometimes read while walking — and yes, I code while sipping only herbal tea. 🌿
+
+---
