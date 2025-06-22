@@ -5,8 +5,8 @@
 
 ## 📫 Contact Me
 
-- 💌 Email: **prabuddha.yourmail@example.com**
-- 🧠 LeetCode: [leetcode.com/prabuddha-pal](https://leetcode.com/prabuddha-pal)
+- 💌 Email: **palprabuddha478@gmail.com**
+- 🧠 LeetCode: https://leetcode.com/u/Prabuddha_Pal_2006/
 
 ---
 
