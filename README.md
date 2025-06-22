@@ -47,9 +47,8 @@
 ## 🔥 Contribution Graph
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F7941D&center=true&vCenter=true&width=440&lines=Building+cool+projects+in+Java+%2F+Python+%2F+JS;Grinding+LeetCode+daily;Loving+the+Fullstack+dev+journey" />
+  <img src="https://leetcard.jacoblin.cool/Prabuddha_Pal_2006?theme=dark&font=Baloo+Bhai&ext=activity" />
 </p>
----
 
 ## 👨‍💻 Currently Grinding
 
