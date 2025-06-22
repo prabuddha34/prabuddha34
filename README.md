@@ -47,7 +47,7 @@
 ## 🔥 Contribution Graph
 
 <p align="center">
-  <img src="https://github-contribution-grid.vercel.app/api?username=prabuddha34&theme=tokyo-night" />
+  <img src="https://github.com/prabuddha34/prabuddha34/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 ---
