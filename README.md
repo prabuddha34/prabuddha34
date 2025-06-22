@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prabuddha</h1>
-<h3 align="center">Full Stack Developer & DSA Warrior 🚀</h3>
+<h3 align="center">Full Stack Developer & DSA Learner🚀</h3>
 
 ---
 
