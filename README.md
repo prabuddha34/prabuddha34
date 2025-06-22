@@ -47,9 +47,8 @@
 ## 🔥 Contribution Graph
 
 <p align="center">
-  <img src="https://github.com/prabuddha34/prabuddha34/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F7941D&center=true&vCenter=true&width=440&lines=Building+cool+projects+in+Java+%2F+Python+%2F+JS;Grinding+LeetCode+daily;Loving+the+Fullstack+dev+journey" />
 </p>
-
 ---
 
 ## 👨‍💻 Currently Grinding
