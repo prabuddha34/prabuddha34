@@ -27,19 +27,19 @@
 ## 📈 GitHub Stats & Analytics
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=prabuddha-pal&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=prabuddha34l&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prabuddha-pal&theme=tokyonight" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prabuddha34&theme=tokyonight" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prabuddha-pal&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=prabuddha34&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabuddha-pal&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabuddha34&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </p>
 
 ---
@@ -47,7 +47,7 @@
 ## 🔥 Contribution Graph
 
 <p align="center">
-  <img src="https://github-contribution-grid.vercel.app/api?username=prabuddha-pal&theme=tokyo-night" alt="Contribution Grid" />
+  <img src="https://github-contribution-grid.vercel.app/api?username=prabuddha34&theme=tokyo-night" alt="Contribution Grid" />
 </p>
 
 ---
