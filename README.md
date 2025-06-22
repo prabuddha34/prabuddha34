@@ -1,63 +1,61 @@
-## 👋 Hi there, I’m Prabuddha Pal (aka `prabuddha34`)
-
-A self-driven software developer passionate about building efficient, scalable, and modern web applications. I love exploring new technologies, writing clean code, and solving real-world problems through software.
-
----
-
-### 🚀 What I’m Working On
-
-- **🔁 Infinite Scroll Lazy Loader**  
-  An image loading system using the `IntersectionObserver` API to load assets on-demand — improving page speed and UX.
-
-- **🛠️ [Add your second project here]**  
-  *(Give a one-line description or keep it blank if you're still building it)*
+<h1 align="center">Hi 👋, I'm Prabuddha</h1>
+<h3 align="center">Full Stack Developer & DSA Warrior 🚀</h3>
 
 ---
 
-### 💡 Tech Stack
+## 📫 Contact Me
 
-**Languages & Markup:**  
-`HTML` · `CSS` · `JavaScript` · `Python` · `Java`
-
-**Frameworks & Libraries:**  
-`React` *(if applicable)* · `Node.js` · `Express` · `MongoDB` · `TailwindCSS` *(if applicable)*
-
-**Tools & Platforms:**  
-`Git` · `GitHub` · `VS Code` · `Chrome DevTools` · `Postman`
+- 💌 Email: **prabuddha.yourmail@example.com**
+- 🧠 LeetCode: [leetcode.com/prabuddha-pal](https://leetcode.com/prabuddha-pal)
 
 ---
 
-### 🧠 Skills & Interests
+## 🛠️ Skills & Tech Stack
 
-- Full-stack web development
-- API design and integration
-- UI/UX optimization
-- Browser performance tuning (Lazy loading, caching, etc.)
-- Secure coding and privacy-focused development
-- Cybersecurity awareness and open-source tools
-
----
-
-### 📌 Pinned Projects
-
-- [🔁 Infinite Scroll Lazy Loader](https://github.com/prabuddha34/infinite-scroll-lazyloader)  
-  A smooth infinite image loader powered by modern browser APIs.
-
-- [📂 Your Second Project](https://github.com/prabuddha34/your-second-project)  
-  *(Update this with actual repo links and brief descriptions.)*
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaSwing-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Python-3776ab?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</p>
 
 ---
 
-### 📫 Let's Connect
+## 📈 GitHub Stats & Analytics
 
-- **GitHub:** [github.com/prabuddha34](https://github.com/prabuddha34)  
-- **YouTube (if applicable):** `PRABUDDHA Pal`  
-- *(Add email, LinkedIn, or Twitter if you'd like)*
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=prabuddha-pal&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prabuddha-pal&theme=tokyonight" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=prabuddha-pal&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabuddha-pal&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+</p>
 
 ---
 
-### ⚡ Fun Fact
+## 🔥 Contribution Graph
 
-I sometimes read while walking — and yes, I code while sipping only herbal tea. 🌿
+<p align="center">
+  <img src="https://github-contribution-grid.vercel.app/api?username=prabuddha-pal&theme=tokyo-night" alt="Contribution Grid" />
+</p>
 
 ---
+
+## 👨‍💻 Currently Grinding
+
+```text
+🔸 LeetCode 🔸
+✅ 100+ Problems Solved  
+⚔️ Mastering: Arrays, Hashing, Strings, Sliding Window  
+🏹 Languages: Java, Python, JS  
