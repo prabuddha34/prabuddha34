@@ -50,7 +50,7 @@
   <img src="https://leetcard.jacoblin.cool/Prabuddha_Pal_2006?theme=dark&font=Baloo+Bhai&ext=activity" />
 </p>
 
-## 👨‍💻 Currently Grinding
+## 👨‍💻 Currently Doing
 
 ```text
 🔸 LeetCode 🔸
