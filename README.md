@@ -44,7 +44,7 @@
 
 ---
 
-## 🔥 Contribution Graph
+## 📚 LeetCode  Stats
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/Prabuddha_Pal_2006?theme=dark&font=Baloo+Bhai&ext=activity" />
