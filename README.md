@@ -44,9 +44,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabuddha34&layout=compact&&theme=tokyonightlangs_count=10&hide=html" alt="Top Languages"/>
+  <img src="https://komarev.com/ghpvc/?username=prabuddha34&label=Profile+Views&color=0e75b6&style=flat" alt="prabuddha34" />
 </p>
-
 ---
 
 ## 📚 LeetCode Stats
