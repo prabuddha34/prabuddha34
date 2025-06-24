@@ -43,10 +43,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=prabuddha34&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=prabuddha34&label=Profile+Views&color=0e75b6&style=flat" alt="prabuddha34" />
-</p>
----
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prabuddha34&layout=compact&theme=tokyonight)
+
 
 ## 📚 LeetCode Stats
 
