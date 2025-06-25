@@ -54,6 +54,11 @@
   <img src="https://leetcard.jacoblin.cool/Prabuddha_Pal_2006?theme=dark&font=Baloo+Bhai&ext=activity" alt="LeetCode Stats"/>
 </p>
 
+🧾 Handle        : [Prax00001](https://codeforces.com/profile/Prax00001)  
+🏆 Max Rating    : _Coming Soon..._  
+📊 Current Rank  : _Fetching from the battlefield..._  
+💥 Problems Solved : _Sharpening skills daily..._
+
 ---
 
 ## 👨‍💻 Currently Doing
