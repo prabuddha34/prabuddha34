@@ -54,13 +54,19 @@
   <img src="https://leetcard.jacoblin.cool/Prabuddha_Pal_2006?theme=dark&font=Baloo+Bhai&ext=activity" alt="LeetCode Stats"/>
 </p>
 
-🧾 Handle        : [Prax00001](https://codeforces.com/profile/Prax00001)  
-🏆 Max Rating    : _Updating_
-📊 Current Rank  : _Updating_
-💥 Problems Solved : 22
+## ⚔️ Codeforces Grind
 
----
+<p align="left">
+  <img src="https://cf-stats.vercel.app/api?username=Prax00001&theme=gruvbox&show_icons=true&count_private=true" alt="Codeforces Stats" />
+</p>
 
+### 👾 Handle: [Prax00001](https://codeforces.com/profile/Prax00001)
+
+- 🧠 Max Rating: _Warming up for Master..._
+- 🥇 Current Rating: _Auto-updated above 👆_
+- 🚀 Solved Problems: _Growing every week..._
+- ⏱️ Active Since: 2024
+- 🏹 Goal: Become a Specialist → Expert → Candidate Master!
 ## 👨‍💻 Currently Doing
 
 ```text
