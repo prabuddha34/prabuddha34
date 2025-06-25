@@ -54,11 +54,12 @@
   <img src="https://leetcard.jacoblin.cool/Prabuddha_Pal_2006?theme=dark&font=Baloo+Bhai&ext=activity" alt="LeetCode Stats"/>
 </p>
 
-## ⚔️ Codeforces Grind
+## ⚔️ Codeforces 
 
 <p align="left">
-  <img src="https://cf-stats.vercel.app/api?username=Prax00001&theme=gruvbox" alt="Codeforces Stats" />
+  <img src="https://cf-stats.vercel.app/api?username=Prax00001&theme=gruvbox" alt="Codeforces Stats"/>
 </p>
+
 ### 👾 Handle: [Prax00001](https://codeforces.com/profile/Prax00001)
 
 - 🧠 Max Rating: _....._
