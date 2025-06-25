@@ -55,9 +55,9 @@
 </p>
 
 🧾 Handle        : [Prax00001](https://codeforces.com/profile/Prax00001)  
-🏆 Max Rating    : _Coming Soon..._  
-📊 Current Rank  : _Fetching from the battlefield..._  
-💥 Problems Solved : _Sharpening skills daily..._
+🏆 Max Rating    : _Updating_
+📊 Current Rank  : _Updating_
+💥 Problems Solved : 22
 
 ---
 
