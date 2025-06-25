@@ -57,16 +57,15 @@
 ## ⚔️ Codeforces Grind
 
 <p align="left">
-  <img src="https://cf-stats.vercel.app/api?username=Prax00001&theme=gruvbox&show_icons=true&count_private=true" alt="Codeforces Stats" />
+  <img src="https://cf-stats.vercel.app/api?username=Prax00001&theme=gruvbox" alt="Codeforces Stats" />
 </p>
-
 ### 👾 Handle: [Prax00001](https://codeforces.com/profile/Prax00001)
 
-- 🧠 Max Rating: _Warming up for Master..._
+- 🧠 Max Rating: _....._
 - 🥇 Current Rating: _Auto-updated above 👆_
 - 🚀 Solved Problems: _Growing every week..._
-- ⏱️ Active Since: 2024
-- 🏹 Goal: Become a Specialist → Expert → Candidate Master!
+- ⏱️ Active Since: 2025
+- 🏹 Goal: To be better 
 ## 👨‍💻 Currently Doing
 
 ```text
