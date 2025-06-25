@@ -56,7 +56,6 @@
 
 ## ⚔️ Codeforces 
 
-![Codeforces Stats](https://cf-stats.vercel.app/api?username=Prax00001&theme=gruvbox)
 
 ### 👾 Handle: [Prax00001](https://codeforces.com/profile/Prax00001)
 
