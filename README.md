@@ -63,7 +63,7 @@
 
 - 🧠 Max Rating: 890
 - 🥇 Current Rating: 890👆(Newbie)
-- 🚀 Solved Problems: 80
+- 🚀 Solved Problems: 88
 - ⏱️ Active Since: 2025
 - 🏹 Goal: To be better 
 ## 👨‍💻 Currently Doing
