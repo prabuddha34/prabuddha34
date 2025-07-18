@@ -61,9 +61,9 @@
 
 ### 👾 Handle: [Prax00001](https://codeforces.com/profile/Prax00001)
 
-- 🧠 Max Rating: 890
-- 🥇 Current Rating: 890👆(Newbie)
-- 🚀 Solved Problems: 88
+- 🧠 Max Rating: 908
+- 🥇 Current Rating: 908👆(Newbie)
+- 🚀 Solved Problems: 100
 - ⏱️ Active Since: 2025
 - 🏹 Goal: To be better 
 ## 👨‍💻 Currently Doing
