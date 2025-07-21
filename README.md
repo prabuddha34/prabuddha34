@@ -70,6 +70,6 @@
 
 ```text
 🔸 LeetCode 🔸
-✅ 160+ Problems Solved  
+✅ 170+ Problems Solved  
 ⚔️ Mastering: Arrays, Hashing, Strings, Sliding Window  
 🏹 Languages: Java, Python, JavaScript
