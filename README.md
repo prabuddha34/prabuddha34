@@ -71,6 +71,6 @@
 
 ```text
 🔸 LeetCode 🔸
-✅ 240+ Problems Solved  
+✅ 250+ Problems Solved  
 ⚔️ Mastering: Arrays, Hashing, Strings, Sliding Window  
 🏹 Languages: Java, Python, JavaScript,C,C++
