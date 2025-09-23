@@ -75,4 +75,4 @@
 🔸 LeetCode 🔸
 ✅ 250+ Problems Solved  
 ⚔️ Mastering: Arrays, Hashing, Strings, Sliding Window  
-🏹 Languages: Java, Python, JavaScript,C,C++
+🏹 Languages: Java, Python, JavaScript,C,C++,Kotlin,PHP
