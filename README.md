@@ -73,6 +73,6 @@
 
 ```text
 🔸 LeetCode 🔸
-✅ 250+ Problems Solved  
+✅ 260+ Problems Solved  
 ⚔️ Mastering: Arrays, Hashing, Strings, Sliding Window  
 🏹 Languages: Java, Python, JavaScript,C,C++,Kotlin,PHP
