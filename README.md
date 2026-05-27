@@ -53,7 +53,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=prabuddha34&theme=tokyo-night&hide_border=true" />
 </p>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=prabuddha34&theme=tokyonight&no-frame=true&margin-w=10" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+Learner;DSA+Enthusiast;Open+Source+Contributor" />
 </p>
 
 ## 📚 LeetCode Stats
