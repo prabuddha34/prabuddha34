@@ -43,13 +43,12 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=prabuddha34&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
 </p>
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prabuddha34&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=prabuddha34&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabuddha34&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabuddha34&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
 </p>
 
 
