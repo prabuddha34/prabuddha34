@@ -83,6 +83,8 @@
   <img src="https://leetcard.jacoblin.cool/Prabuddha_Pal_2006?theme=dark&font=Baloo+Bhai&ext=activity" alt="LeetCode Stats"/>
 </p>
 
+![snake animation](https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg)
+
 ## ⚔️ Codeforces 
 
 
@@ -100,4 +102,3 @@
 ✅ 570+ Problems Solved  
 🏹 Languages: Java, Python, JavaScript,C,C++,Kotlin,PHP
 
-![snake animation](https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg)
