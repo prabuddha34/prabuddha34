@@ -58,7 +58,7 @@
 
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabuddha34&layout=compact&theme=tokyonight&cache_seconds=1800"/>
+<img src="https://github-readme-stats.vercel.app/api?username=prabuddha34&show_icons=true"/>
 
 
 ## 📈 GitHub Stats & Analytics
