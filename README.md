@@ -99,3 +99,5 @@
 🔸 LeetCode 🔸
 ✅ 570+ Problems Solved  
 🏹 Languages: Java, Python, JavaScript,C,C++,Kotlin,PHP
+
+![snake animation](https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg)
