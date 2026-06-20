@@ -102,8 +102,8 @@
 
 ## 🏆 Competitive Programming
 
-[![AtCoder](https://img.shields.io/badge/AtCoder-448-brightgreen)](https://atcoder.jp/users/YOUR_HANDLE)
-[![Codeforces](https://img.shields.io/badge/Codeforces-1078-blue)](https://codeforces.com/profile/Praxy00001)
+[![AtCoder](https://img.shields.io/badge/AtCoder-448-brightgreen)](https://atcoder.jp/users/praxxy000001)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1199-blue)](https://codeforces.com/profile/Praxy00001)
 ## 👨‍💻 Currently Doing
 
 ```text
