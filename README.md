@@ -95,7 +95,7 @@
 
 - 🧠 Max Rating: 1199
 - 🥇 Current Rating: 1199👆(Newbie)
-- 🚀 Solved Problems: 683 problems
+- 🚀 Solved Problems: 800+ problems
 - ⏱️ Active Since: 2025
 - 🏹 Goal: To be better
 
