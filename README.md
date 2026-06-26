@@ -6,7 +6,7 @@
 ## 📫 Contact Me
 
 - 💌 Email: **palprabuddha478@gmail.com**
-- 🧠 LeetCode: [Prabuddha_Pal_2006](https://leetcode.com/u/Prabuddha_Pal_2006/)
+
 
 ---
 
