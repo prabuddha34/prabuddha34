@@ -108,6 +108,6 @@
 
 ```text
 🔸 LeetCode 🔸
-✅ 570+ Problems Solved  
+✅ 620+ Problems Solved  
 🏹 Languages: Java, Python, JavaScript,C,C++,Kotlin,PHP
 
