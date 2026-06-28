@@ -93,8 +93,8 @@
 
 ### 👾 Handle: [Prax00001](https://codeforces.com/profile/Prax00001)
 
-- 🧠 Max Rating: 1209
-- 🥇 Current Rating: 1209👆(Pupil)
+- 🧠 Max Rating: 1489
+- 🥇 Current Rating: 1489👆(Specalist)
 - 🚀 Solved Problems: 1000+ problems
 - ⏱️ Active Since: 2025
 - 🏹 Goal: To be better
