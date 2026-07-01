@@ -93,8 +93,8 @@
 
 ### 👾 Handle: [Prax00001](https://codeforces.com/profile/Prax00001)
 
-- 🧠 Max Rating: 1489
-- 🥇 Current Rating: 1489👆(Specalist)
+- 🧠 Max Rating: 1550
+- 🥇 Current Rating: 1550👆(Specalist)
 - 🚀 Solved Problems: 1000+ problems
 - ⏱️ Active Since: 2025
 - 🏹 Goal: To be better
@@ -103,7 +103,7 @@
 ## 🏆 Competitive Programming
 
 [![AtCoder](https://img.shields.io/badge/AtCoder-762-brightgreen)](https://atcoder.jp/users/praxxy000001)
-[![Codeforces](https://img.shields.io/badge/Codeforces-1489-blue)](https://codeforces.com/profile/Praxy00001)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1550-blue)](https://codeforces.com/profile/Praxy00001)
 ## 👨‍💻 Currently Doing
 
 ```text
