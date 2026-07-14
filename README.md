@@ -58,7 +58,6 @@
 
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=prabuddha34&show_icons=true"/>
 
 
 ## 📈 GitHub Stats & Analytics
