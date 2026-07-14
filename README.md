@@ -62,6 +62,9 @@
 
 
 ## 📈 GitHub Stats & Analytics
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=prabuddha34&theme=tokyonight" />
+</p>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabuddha34&layout=compact&cache_seconds=86400"/>
 
 
