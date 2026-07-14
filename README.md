@@ -68,6 +68,9 @@
 </p>
 
 <p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabuddha34&layout=compact&langs_count=8&theme=tokyonight"/>
+</p>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=prabuddha34&show_icons=true&theme=tokyonight" />
   <img src="https://streak-stats.demolab.com?user=prabuddha34&theme=tokyonight&hide_border=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabuddha34&layout=compact&theme=tokyonight" />
