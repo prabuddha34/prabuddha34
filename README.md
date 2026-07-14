@@ -62,7 +62,8 @@
 
 
 ## 📈 GitHub Stats & Analytics
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabuddha34&layout=donut-vertical&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabuddha34&layout=compact&cache_seconds=86400"/>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=prabuddha34&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
