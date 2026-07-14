@@ -62,6 +62,7 @@
 
 
 ## 📈 GitHub Stats & Analytics
+[![wakatime](https://wakatime.com/badge/user/YOUR_ID.svg)](https://wakatime.com/prabuddha34)
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=prabuddha34&theme=tokyonight" />
 </p>
