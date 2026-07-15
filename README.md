@@ -122,6 +122,11 @@
 [![CodeChef](https://img.shields.io/badge/CodeChef-2★-brown)](https://www.codechef.com/users/prax_willy)
 ## 👨‍💻 Currently Doing
 
+## ⏱️ Weekly Coding Stats
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ```text
 🔸 LeetCode 🔸
 ✅ 620+ Problems Solved  
