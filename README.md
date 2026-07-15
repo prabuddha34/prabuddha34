@@ -80,12 +80,7 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=prabuddha34&theme=tokyonight&hide_border=true" />
 </p>
-<p align="center">
 
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/wakatime?username=3f8a974e-fb07-4bac-a6a9-1679e0b4708f&theme=tokyonight&hide_border=true&layout=compact"/>
-
-</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=prabuddha34&theme=tokyo-night&hide_border=true" />
@@ -101,6 +96,15 @@
 </p>
 
 ![snake animation](https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg)
+
+
+## ⏱️ Weekly Coding Stats
+
+<!--START_SECTION:waka-->
+
+
+
+<!--END_SECTION:waka-->
 
 ## ⚔️ Codeforces 
 
@@ -122,10 +126,7 @@
 [![CodeChef](https://img.shields.io/badge/CodeChef-2★-brown)](https://www.codechef.com/users/prax_willy)
 ## 👨‍💻 Currently Doing
 
-## ⏱️ Weekly Coding Stats
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 
 ```text
 🔸 LeetCode 🔸
