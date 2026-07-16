@@ -109,7 +109,7 @@
 
 - 🧠 Max Rating: 1550
 - 🥇 Current Rating: 1550👆(Specalist)
-- 🚀 Solved Problems: 1000+ problems
+- 🚀 Solved Problems: 1200+ problems
 - ⏱️ Active Since: 2025
 - 🏹 Goal: To be better
 
