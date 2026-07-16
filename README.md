@@ -100,6 +100,22 @@
 ## ⏱️ Weekly Coding Stats
 
 <!--START_SECTION:waka-->
+
+```txt
+From: 08 July 2026 - To: 15 July 2026
+
+Total Time: 2 hrs 9 mins
+
+C++               1 hr 46 mins          ████████████████████▓░░░░   82.16 %
+Python            9 mins                █▓░░░░░░░░░░░░░░░░░░░░░░░   07.09 %
+Java              6 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   05.37 %
+Lua               5 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 %
+HTTP Request      0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 %
+Other             0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
+SQL               0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+Properties        0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+```
+
 <!--END_SECTION:waka-->
 
 ## ⚔️ Codeforces 
