@@ -123,8 +123,8 @@ Properties        0 secs                ░░░░░░░░░░░░░�
 
 ### 👾 Handle: [Prax00001](https://codeforces.com/profile/Prax00001)
 
-- 🧠 Max Rating: 1550
-- 🥇 Current Rating: 1550👆(Specalist)
+- 🧠 Max Rating: 1571
+- 🥇 Current Rating: 1571👆(Specalist)
 - 🚀 Solved Problems: 1200+ problems
 - ⏱️ Active Since: 2025
 - 🏹 Goal: To be better
@@ -133,7 +133,7 @@ Properties        0 secs                ░░░░░░░░░░░░░�
 ## 🏆 Competitive Programming
 
 [![AtCoder](https://img.shields.io/badge/AtCoder-762-brightgreen)](https://atcoder.jp/users/praxxy000001)
-[![Codeforces](https://img.shields.io/badge/Codeforces-1550-blue)](https://codeforces.com/profile/Praxy00001)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1571-blue)](https://codeforces.com/profile/Praxy00001)
 [![CodeChef](https://img.shields.io/badge/CodeChef-1462-brown)](https://www.codechef.com/users/prax_willy)
 [![CodeChef](https://img.shields.io/badge/CodeChef-2★-brown)](https://www.codechef.com/users/prax_willy)
 ## 👨‍💻 Currently Doing
