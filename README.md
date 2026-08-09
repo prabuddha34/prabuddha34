@@ -102,13 +102,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 July 2026 - To: 07 August 2026
+From: 01 August 2026 - To: 08 August 2026
 
-Total Time: 5 hrs 38 mins
+Total Time: 5 hrs 15 mins
 
-C++          5 hrs 35 mins         ████████████████████████▓   98.96 %
-Java         2 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
-Other        0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
+C++          5 hrs 13 mins         ████████████████████████▓   98.89 %
+Java         2 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 %
+Other        0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
 CMake        0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 Properties   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 SQL          0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
