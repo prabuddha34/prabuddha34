@@ -102,12 +102,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 August 2026 - To: 11 August 2026
+From: 05 August 2026 - To: 12 August 2026
 
-Total Time: 5 hrs 14 mins
+Total Time: 5 hrs 48 mins
 
-C++          5 hrs 14 mins         █████████████████████████   99.88 %
-Other        0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+C++          5 hrs 48 mins         █████████████████████████   99.89 %
+Other        0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
 SQL          0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 Java         0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 XML          0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
