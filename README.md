@@ -76,18 +76,14 @@
 </p>
 
 
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=prabuddha34&theme=tokyonight&hide_border=true" />
-</p>
-
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prabuddha34&theme=tokyo-night&hide_border=true" />
-</p>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+Learner;DSA+Enthusiast;Open+Source+Contributor" />
-</p>
+<div align="center">
+<a href="https://github.com/jstrieb/github-stats">
+<img src="https://github.com/prabuddha34/github-stats/blob/generated/overview.svg#gh-dark-mode-only" />
+<img src="https://github.com/prabuddha34/github-stats/blob/generated/languages.svg#gh-dark-mode-only" />
+<img src="https://github.com/prabuddha34/github-stats/blob/generated/overview.svg#gh-light-mode-only" />
+<img src="https://github.com/prabuddha34/github-stats/blob/generated/languages.svg#gh-light-mode-only" />
+</a>
+</div>
 
 ## 📚 LeetCode Stats
 
