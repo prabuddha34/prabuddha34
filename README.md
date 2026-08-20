@@ -79,14 +79,6 @@
 </p>
 
 
-<div align="center">
-<a href="https://github.com/jstrieb/github-stats">
-<img src="https://github.com/prabuddha34/github-stats/blob/generated/overview.svg#gh-dark-mode-only" />
-<img src="https://github.com/prabuddha34/github-stats/blob/generated/languages.svg#gh-dark-mode-only" />
-<img src="https://github.com/prabuddha34/github-stats/blob/generated/overview.svg#gh-light-mode-only" />
-<img src="https://github.com/prabuddha34/github-stats/blob/generated/languages.svg#gh-light-mode-only" />
-</a>
-</div>
 
 ## 📚 LeetCode Stats
 
