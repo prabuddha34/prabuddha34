@@ -102,16 +102,16 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 August 2026 - To: 18 August 2026
+From: 12 August 2026 - To: 19 August 2026
 
-Total Time: 2 hrs 26 mins
+Total Time: 1 hr 58 mins
 
-C++          2 hrs 26 mins         ██████████████████▓░░░░░░   74.98 %
-Other        48 mins               ██████▒░░░░░░░░░░░░░░░░░░   24.69 %
-Java         0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
-SQL          0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+C++          1 hr 55 mins          █████████████████▒░░░░░░░   69.42 %
+Other        48 mins               ███████▒░░░░░░░░░░░░░░░░░   28.85 %
+SQL          2 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 %
+Java         0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
+Properties   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 XML          0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
-Properties   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
