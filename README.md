@@ -9,7 +9,7 @@
  
 ---
 
-## 🛠️ Skills & Tech Stack 
+## 🛠️ Skills & Tech Stack  
 
 <p align="left">
 
