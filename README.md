@@ -93,14 +93,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 August 2026 - To: 05 September 2026
+From: 30 August 2026 - To: 06 September 2026
 
-Total Time: 5 hrs 35 mins
+Total Time: 4 hrs 50 mins
 
-C++      3 hrs 36 mins         ███████████████▓░░░░░░░░░   62.29 %
-Python   1 hr 58 mins          ████████▓░░░░░░░░░░░░░░░░   34.10 %
-Other    12 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 %
-Text     0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+C++      4 hrs 30 mins         ██████████████████████▓░░   90.11 %
+Python   19 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.45 %
+Other    10 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 %
 ```
 
 <!--END_SECTION:waka-->
