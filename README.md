@@ -117,8 +117,8 @@ Other    0 secs                ░░░░░░░░░░░░░░░░�
 
 [![AtCoder](https://img.shields.io/badge/AtCoder-762-brightgreen)](https://atcoder.jp/users/praxxy000001)
 [![Codeforces](https://img.shields.io/badge/Codeforces-1571-blue)](https://codeforces.com/profile/Praxy00001)
-[![CodeChef](https://img.shields.io/badge/CodeChef-1462-brown)](https://www.codechef.com/users/prax_willy)
-[![CodeChef](https://img.shields.io/badge/CodeChef-2★-brown)](https://www.codechef.com/users/prax_willy)
+[![CodeChef](https://img.shields.io/badge/CodeChef-1612-brown)](https://www.codechef.com/users/prax_willy)
+[![CodeChef](https://img.shields.io/badge/CodeChef-3★-brown)](https://www.codechef.com/users/prax_willy)
 ## 👨‍💻 Currently Doing
 
 
