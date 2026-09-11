@@ -90,12 +90,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 September 2026 - To: 09 September 2026
+From: 03 September 2026 - To: 10 September 2026
 
-Total Time: 2 hrs 44 mins
+Total Time: 2 hrs 41 mins
 
-C++      2 hrs 42 mins         ████████████████████████▓   98.81 %
-Python   1 min                 ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 %
+C++      2 hrs 39 mins         ████████████████████████▓   98.78 %
+Python   1 min                 ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
 Other    0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
