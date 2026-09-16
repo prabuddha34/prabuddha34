@@ -70,7 +70,7 @@
 
 <p align="center">
   
-
+![GitHub followers](https://img.shields.io/github/followers/prabuddha34?label=Followers&style=for-the-badge)
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=prabuddha34&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
 </p>
