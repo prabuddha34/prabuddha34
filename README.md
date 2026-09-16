@@ -65,10 +65,7 @@
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=prabuddha34&theme=tokyonight&hide_border=true" height="165"/>
 </p>
-
-![GitHub followers](https://img.shields.io/github/followers/prabuddha34?label=Followers&style=for-the-badge)
-![GitHub stars](https://img.shields.io/github/stars/prabuddha34?affiliations=OWNER&style=for-the-badge)
-
+<p align="center"> <img src="https://img.shields.io/github/followers/prabuddha34?label=Followers&style=for-the-badge" alt="GitHub followers"> <img src="https://img.shields.io/github/stars/prabuddha34?affiliations=OWNER&style=for-the-badge" alt="GitHub stars"> </p>
 <p align="center">
   
 <p align="center">
