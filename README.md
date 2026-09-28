@@ -88,15 +88,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 September 2026 - To: 26 September 2026
+From: 20 September 2026 - To: 27 September 2026
 
-Total Time: 10 hrs 17 mins
+Total Time: 8 hrs 49 mins
 
-C++              5 hrs 28 mins         █████████████▒░░░░░░░░░░░   53.07 %
-Python           4 hrs 10 mins         ██████████░░░░░░░░░░░░░░░   40.46 %
-HTML             21 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 %
-RGBDS Assembly   16 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.64 %
-Other            2 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
+C++              5 hrs 4 mins          ██████████████▒░░░░░░░░░░   57.21 %
+Python           3 hrs 7 mins          ████████▓░░░░░░░░░░░░░░░░   35.25 %
+HTML             21 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 %
+RGBDS Assembly   16 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.08 %
+Other            2 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
 Text             0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
 
