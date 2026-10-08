@@ -88,18 +88,17 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 September 2026 - To: 06 October 2026
+From: 30 September 2026 - To: 07 October 2026
 
-Total Time: 15 hrs
+Total Time: 14 hrs 15 mins
 
-Python           8 hrs 13 mins         █████████████▓░░░░░░░░░░░   54.33 %
-C++              5 hrs 13 mins         ████████▓░░░░░░░░░░░░░░░░   34.55 %
-C#               1 hr 26 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.49 %
-Text             7 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 %
-Other            7 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
+Python           7 hrs 35 mins         █████████████▒░░░░░░░░░░░   52.81 %
+C++              4 hrs 1 min           ███████░░░░░░░░░░░░░░░░░░   27.99 %
+C#               2 hrs 31 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.59 %
+Other            7 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 %
+Text             6 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
 RGBDS Assembly   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 GitIgnore file   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
-CMake            0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
