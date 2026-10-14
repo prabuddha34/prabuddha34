@@ -88,17 +88,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 October 2026 - To: 12 October 2026
+From: 06 October 2026 - To: 13 October 2026
 
-Total Time: 11 hrs 35 mins
+Total Time: 8 hrs 16 mins
 
-Python           4 hrs 42 mins         ██████████░░░░░░░░░░░░░░░   40.32 %
-C#               4 hrs 28 mins         █████████▓░░░░░░░░░░░░░░░   38.32 %
-C++              1 hr 34 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.43 %
-Text             49 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   07.09 %
-Other            5 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
-RGBDS Assembly   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
-GitIgnore file   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Python   3 hrs 21 mins         ██████████░░░░░░░░░░░░░░░   40.09 %
+C#       3 hrs 2 mins          █████████░░░░░░░░░░░░░░░░   36.39 %
+C++      1 hr 3 mins           ███░░░░░░░░░░░░░░░░░░░░░░   12.58 %
+Text     49 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.78 %
+Other    5 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 %
 ```
 
 <!--END_SECTION:waka-->
