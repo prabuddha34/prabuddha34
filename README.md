@@ -88,15 +88,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 October 2026 - To: 14 October 2026
+From: 08 October 2026 - To: 15 October 2026
 
-Total Time: 5 hrs
+Total Time: 42 mins
 
-C#       1 hr 57 mins          █████████▓░░░░░░░░░░░░░░░   38.27 %
-Python   1 hr 39 mins          ████████░░░░░░░░░░░░░░░░░   32.40 %
-Text     47 mins               ████░░░░░░░░░░░░░░░░░░░░░   15.53 %
-C++      36 mins               ███░░░░░░░░░░░░░░░░░░░░░░   11.89 %
-Other    5 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.91 %
+C++     27 mins               ███████████████▒░░░░░░░░░   61.93 %
+C#      14 mins               ████████░░░░░░░░░░░░░░░░░   31.73 %
+Other   2 mins                █▓░░░░░░░░░░░░░░░░░░░░░░░   06.33 %
 ```
 
 <!--END_SECTION:waka-->
