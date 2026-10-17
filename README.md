@@ -88,13 +88,18 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 October 2026 - To: 15 October 2026
+From: 09 October 2026 - To: 16 October 2026
 
-Total Time: 42 mins
+Total Time: 6 hrs 6 mins
 
-C++     27 mins               ███████████████▒░░░░░░░░░   61.93 %
-C#      14 mins               ████████░░░░░░░░░░░░░░░░░   31.73 %
-Other   2 mins                █▓░░░░░░░░░░░░░░░░░░░░░░░   06.33 %
+C++              4 hrs 36 mins         ██████████████████▒░░░░░░   73.94 %
+Objective-C      33 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   08.84 %
+RGBDS Assembly   16 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 %
+C#               10 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.67 %
+Text             8 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.32 %
+Other            7 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.99 %
+C/C              6 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.73 %
+Hybris           5 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 %
 ```
 
 <!--END_SECTION:waka-->
