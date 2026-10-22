@@ -190,7 +190,7 @@ Text             22 mins               ▓░░░░░░░░░░░░�
 
 ```text
 🔸 LeetCode 🔸
-✅ 620+ Problems Solved
+✅ 740+ Problems Solved
 🏹 Languages: Java, Python, JavaScript, C, C++, Kotlin, PHP
 ```
 
