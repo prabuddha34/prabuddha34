@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,24&height=200&section=header&text=Prabuddha%20Pal&fontSize=60&fontAlignY=38&desc=Full%20Stack%20Developer%20%26%20DSA%20Learner&descAlignY=58&animation=fadeIn" />
+
 </p>
 
 <p align="center">
