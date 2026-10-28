@@ -147,18 +147,18 @@ pie showData title Languages across my GitHub repos
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 October 2026 - To: 26 October 2026
+From: 20 October 2026 - To: 27 October 2026
 
-Total Time: 16 hrs 6 mins
+Total Time: 12 hrs 39 mins
 
-C++              6 hrs 38 mins         ██████████▒░░░░░░░░░░░░░░   40.89 %
-Objective-C      4 hrs 50 mins         ███████▒░░░░░░░░░░░░░░░░░   29.74 %
-Hybris           1 hr 16 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.83 %
-C/C              45 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   04.71 %
-C#               40 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 %
-Text             33 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 %
-Python           27 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.83 %
-Assembly file    26 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.68 %
+C++              4 hrs 56 mins         █████████▓░░░░░░░░░░░░░░░   38.67 %
+Objective-C      4 hrs 6 mins          ████████░░░░░░░░░░░░░░░░░   32.17 %
+Hybris           1 hr 5 mins           ██░░░░░░░░░░░░░░░░░░░░░░░   08.52 %
+C/C              44 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.75 %
+Python           25 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.28 %
+Text             25 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.28 %
+Assembly file    23 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.08 %
+C#               15 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.97 %
 ```
 
 <!--END_SECTION:waka-->
